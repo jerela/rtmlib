@@ -1,4 +1,7 @@
 numpy
+matplotlib
+pandas
+anytree
 onnxruntime
 opencv-contrib-python
 opencv-python
